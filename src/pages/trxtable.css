@@ -1,0 +1,35 @@
+.trintablegreen{
+    background-color: #fefefe;
+    cursor: pointer;
+}
+
+.trintablegreen:hover{
+    background-color: #e6e6e6c2;
+    cursor: pointer;
+}
+
+.trintablered{
+    background-color: #fefefe;
+    border-left:5px solid red ;
+    cursor: pointer;
+}
+
+.trintablered:hover{
+    background-color: #e6e6e6c2;
+    border-left:5px solid red ;
+    cursor: pointer;
+}
+
+.rrfundit{
+    background-color: #e6e6e6;
+}
+
+/* .rrdatave{
+    background-color: #e6e6e6; 
+} */
+
+/* .dropdown{
+    position:absolute;
+    margin-right: 0px;
+    display: flex;
+} */
